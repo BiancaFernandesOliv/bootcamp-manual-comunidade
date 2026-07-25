@@ -19,3 +19,9 @@ escrever nenhuma linha de código de programação.
 
 > 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
 > o projeto e **como usá-lo**.
+
+## Licença
+
+Este projeto foi desenvolvido para fins educacionais durante o Bootcamp WoMakersCode.
+
+Neste exercício, nenhuma licença foi aplicada a este repositório, pois seu objetivo é exclusivamente a prática de Git e GitHub.
